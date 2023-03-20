@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing a Full Stack Web Development Course<br>🌱 I’m currently learning MERN stack<br>📫 How to reach me: nitinjam8800@gmail.com<br>👨‍💻 All of my projects deployed on: <a href="https://nitinjambal.github.io/">https://nitinjambal.github.io/</a> <br/> 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1ekChql2uokFwbp5jUYriDAvMOYX1Orm-/view?usp=share_link">Resume</a>
+🔭 I’m currently doing a Full Stack Web Development Course<br>🌱 I’m currently learning MERN stack<br>📫 How to reach me: nitinjam8800@gmail.com<br>👨‍💻 All of my projects deployed on: <a href="https://nitinjambal.github.io/">https://nitinjambal.github.io/</a>
 
 
 
