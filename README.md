@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Full Stack Web Developer<br>🌱 I’m currently working on MERN stack<br>📫 How to reach me: nitinjam8800@gmail.com<br>👨🏻‍💻Have a look at my Portfolio👉🏻https://nitinjambal.github.io
+🔭 I’m Full Stack Web Developer<br>🌱 I’m currently working on MERN stack<br>📫 How to reach me: nitinjam8800@gmail.com<br>
 
 
 
